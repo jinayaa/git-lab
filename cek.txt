@@ -1,3 +1,5 @@
 hello world
 aku
 kamu
+kita
+berdua
