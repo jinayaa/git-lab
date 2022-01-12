@@ -2,4 +2,5 @@ hello world
 aku
 kamu
 kita
-berdua
+berdu
+a
